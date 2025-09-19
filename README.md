@@ -3,7 +3,7 @@
 <span align="center">
     <a href="https://huggingface.co/datasets/JamshidJDMY/HintQA/tree/main"><img alt="Huggingface" src="https://img.shields.io/static/v1?label=Datasets&message=HintQA&logo=huggingface&color=20BEFF"/></a>
 </span>
-<a href="https://doi.org/10.18653/v1/2024.findings-emnlp.546"><img src="https://img.shields.io/static/v1?label=Paper&message=ACL Anthology&color=green&logo=arXiv"></a>
+<a href="https://doi.org/10.18653/v1/2024.findings-emnlp.546"><img src="https://img.shields.io/static/v1?label=Paper&message=ACL%20Anthology&color=green&logo=arXiv"></a>
 <a href="https://colab.research.google.com/github/DataScienceUIBK/HintQA/blob/main/Code/demo.ipynb"><img src="https://img.shields.io/static/v1?label=Colab&message=Demo&logo=Google%20Colab&color=f9ab00"></a>
 <a href="https://opensource.org/license/mit"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=red"></a>
 
